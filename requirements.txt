@@ -2,7 +2,6 @@ bidict==0.23.1
 blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
-dnspython==2.6.1
 dnspython==2.2.1
 Flask==2.1.1
 Flask-SocketIO==5.2.0
